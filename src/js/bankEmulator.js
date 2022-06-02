@@ -61,6 +61,13 @@ const sendWithdrawalMoney = (valueReq) => {
   }
 }
 
-const valueRequest = prompt('Valor para sacar');
+window.addEventListener('submit', (event) => {
+  event.preventDefault();
 
-sendWithdrawalMoney(parseInt(valueRequest)); 
+  const form = document.forms.withdrawalForm;
+
+  const { cash } = form;
+
+  sendWithdrawalMoney(parseInt(cash.value));
+
+})
