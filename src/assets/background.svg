@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920px"
+   height="1080px"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="SVGRoot"
+   enable-background="new"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="background.svg">
+  <defs
+     id="defs3726">
+    <symbol
+       id="Cashier_Inv">
+      <title
+         id="title4155">Cashier</title>
+      <rect
+         id="rect4157"
+         style="stroke:#ffffff;stroke-width:0.26458332"
+         ry="1.5875"
+         height="18.785418"
+         width="18.785418"
+         y="0.13229166"
+         x="0.13229166" />
+      <g
+         id="g4163"
+         style="fill:none;stroke:#ffffff;stroke-width:6">
+        <circle
+           id="circle4159"
+           r="6.3499999"
+           cy="9.5249996"
+           cx="9.5249996"
+           style="stroke-width:1.58749998" />
+        <path
+           id="path4161"
+           d="M 11.90625,7.9375 C 11.90625,6.8791667 10.847917,6.35 9.525,6.35 c -1.3229167,0 -2.38125,0.5291667 -2.38125,1.5875 0,1.0583333 1.0583333,1.4552083 2.38125,1.5875 1.322917,0.1322917 2.645833,0.2645833 2.645833,1.5875 0,1.322917 -1.322916,1.5875 -2.645833,1.5875 -1.3229167,0 -2.38125,-0.79375 -2.38125,-1.852083 M 9.525,4.4979167 V 14.552083"
+           inkscape:connector-curvature="0"
+           style="stroke-width:1.58749998" />
+      </g>
+    </symbol>
+    <symbol
+       id="LogicalAnd">
+      <title
+         id="title7523">Logical And</title>
+      <desc
+         id="desc7525">Summing junction. Shows when multiple branches converge.</desc>
+      <circle
+         id="circle7527"
+         style="stroke-width:0.52916664"
+         r="5.2916665"
+         cy="19.84375"
+         cx="19.84375" />
+      <path
+         id="path7529"
+         style="stroke-width:0.52916664"
+         d="m 16.139583,16.139583 7.408334,7.408334"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path7531"
+         style="stroke-width:0.52916664"
+         d="m 16.139583,23.547917 7.408334,-7.408334"
+         inkscape:connector-curvature="0" />
+    </symbol>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter3953"
+       x="-0.0047177061"
+       width="1.0094354"
+       y="-0.0083542716"
+       height="1.0167085">
+      <feBlend
+         inkscape:collect="always"
+         mode="overlay"
+         in2="BackgroundImage"
+         id="feBlend3955" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.28905752"
+     inkscape:cx="960"
+     inkscape:cy="540"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3729">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="filter:url(#filter3953)">
+    <rect
+       style="opacity:1;fill:#0088aa;fill-opacity:1;stroke:#000000;stroke-width:5.0619998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="rect3739"
+       width="1942.8572"
+       height="1097.1428"
+       x="-11.428572"
+       y="-5.7142859"
+       ry="8.8888903" />
+    <g
+       id="g3947"
+       transform="matrix(5.3615205,0,0,5.3615205,900.78704,-314.12167)"
+       style="opacity:1">
+      <g
+         id="layer1-6"
+         inkscape:label="Layer 1">
+        <rect
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           ry="2.3518522"
+           y="57.522373"
+           x="20.064341"
+           height="135.91974"
+           width="172.16499"
+           id="rect278"
+           style="opacity:1;fill:#0000d4;fill-opacity:1;stroke:#000000;stroke-width:1.33932078;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
+      </g>
+      <use
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         transform="matrix(10.493778,0,0,10.493778,-104.47246,-83.195348)"
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#LogicalAnd"
+         style="fill:#aaccee;stroke:#000000"
+         id="use9635" />
+      <use
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         transform="matrix(2.1551733,0,0,2.1551733,83.559032,105.30842)"
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#Cashier_Inv"
+         style="fill:#000000;stroke:#000000"
+         id="use8742" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:156.56796265px;line-height:1.25;font-family:'Padauk Book';-inkscape-font-specification:'Padauk Book, Italic';letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.34851956"
+       x="1090.1401"
+       y="906.10236"
+       id="text3951"><tspan
+         sodipodi:role="line"
+         id="tspan3949"
+         x="1090.1401"
+         y="906.10236"
+         style="font-weight:bold;fill:#ffffff;stroke-width:2.34851956">Break Bank</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66666412px;line-height:1.25;font-family:'Padauk Book';-inkscape-font-specification:'Padauk Book, Italic';letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none"
+       x="1.0168649"
+       y="1062.2549"
+       id="text3961"><tspan
+         sodipodi:role="line"
+         id="tspan3959"
+         x="1.0168649"
+         y="1062.2549"
+         style="fill:#cccccc">Created by Felix Developer</tspan></text>
+  </g>
+</svg>
