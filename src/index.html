@@ -7,7 +7,6 @@
   <title>Break Bank</title>
   <link rel="shortcut icon" href="./assets/favicon.ico" type="image/x-icon">
   <script src="./js/isAuthenticated.js"></script>
-  <script src="./js/loadBankData.js"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Secular+One&display=swap" rel="stylesheet">
@@ -23,17 +22,21 @@
           <img src="./img/logo.png" alt="Logo Break Bank" />
         </div>
         <ul>
-          <li id="logout">Logout</li>
+          <li class="logOut">Logout</li>
         </ul>
       </nav>
+      <div class="withdrawalMoney">
+        <h2>Resultado: </h2>
+        <p id="result"></p>
+      </div>
     </div>
     <div class="options">
       <div class="card-form">
         <h2>Fazer saque da conta</h2>
         <form name="withdrawalForm">
           <label for=""></label>
-          <input name="cash" type="text" placeholder="Quantidade de retirada"> <br /><br />
-          <button type="submit">Enviar</button>
+          <input name="cash" type="number" max="10000" placeholder="Quantidade de retirada"> <br /><br />
+          <button type="submit">Sacar</button>
         </form>
       </div>
     </div>

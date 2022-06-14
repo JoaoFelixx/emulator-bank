@@ -6,7 +6,6 @@ div.flex-container {
 div.screen {
   flex-grow: 2;
   background-color: #dfdfdf;
-
 }
 
 div.options {
@@ -48,7 +47,7 @@ li {
   cursor: pointer;
 }
 
-li:hover {
+.logOut:hover {
   transition: 1s;  
   color: #ff0000;
 }
@@ -57,31 +56,42 @@ div.logo-nav {
   width: 3.5em;
 }
 
-div.logo-nav>img {
+div.logo-nav > img {
   width: 100%;
 }
 
-input {
+div .withdrawalMoney {
+  padding: 0.4em;
+  background-color: #1083c5;
+}
+
+p#result {
+  color: #fff;
+}
+
+input[type="number"] {
   width: 100%;
   border: none;
   border-bottom: 2px solid #fff;
   background-color: transparent;
-}
-
-input::placeholder {
+  color: #fff;
+}:focus {
+  box-shadow: 0 0 0 0;
+  outline: 0;
+}::placeholder {
   color: #fff;
   background-color: transparent;
 }
 
 button[type="submit"] {
   width: 100%;
-  background-color: #fff;
+  background-color: #1900f8;
+  color: #fff;
+  font-weight: bold;
   border: none;
-  padding: 0 4em;
+  padding: 0.4em 0;
 }
 
 @media screen and (max-width: 768px) {
-  div.flex-container {
-    flex-direction: column;
-  }
+  div.flex-container { flex-direction: column; }
 }

@@ -1,2 +1,6 @@
-document.querySelector('#logout')
-  .addEventListener('click', () => localStorage.clear());
+document.querySelector('.logOut')
+  .addEventListener('click', () => {
+    localStorage.clear()
+
+    location.assign('/views/login/')
+  });
