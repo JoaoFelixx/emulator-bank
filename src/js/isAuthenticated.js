@@ -1,10 +1,7 @@
-const username = localStorage.getItem('username');
-
-if (!username)
-  location.assign('/views/login')
-
-
-
 window.addEventListener('load', () => {
+  const hasUsername = localStorage.getItem('username');
+
+  if (!hasUsername)
+    location.assign('/views/login');
 
 });

@@ -3,7 +3,9 @@ window.addEventListener('submit', (event) => {
 
   const form = document.forms.login;
 
-  const { email, passowrd } = form;
+  const { name } = form;
 
-  console.log(email, passowrd);
+  localStorage.setItem('username', name.value);
+
+  window.location.assign('/');
 })

@@ -17,7 +17,10 @@
    id="SVGRoot"
    enable-background="new"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="background.svg">
+   sodipodi:docname="background.svg"
+   inkscape:export-filename="/home/felix-developer/Documents/css/technical-test/src/assets/background.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs3726">
     <symbol
@@ -93,7 +96,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.28905752"
+     inkscape:zoom="0.55765001"
      inkscape:cx="960"
      inkscape:cy="540"
      inkscape:document-units="px"
@@ -122,16 +125,16 @@
      id="layer1"
      style="filter:url(#filter3953)">
     <rect
-       style="opacity:1;fill:#0088aa;fill-opacity:1;stroke:#000000;stroke-width:5.0619998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       style="opacity:1;fill:#0088aa;fill-opacity:1;stroke:#000000;stroke-width:5.03532887;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
        id="rect3739"
-       width="1942.8572"
-       height="1097.1428"
-       x="-11.428572"
-       y="-5.7142859"
-       ry="8.8888903" />
+       width="1923.9106"
+       height="1096.3029"
+       x="-1.7153721"
+       y="-5.2942796"
+       ry="8.8820848" />
     <g
        id="g3947"
-       transform="matrix(5.3615205,0,0,5.3615205,900.78704,-314.12167)"
+       transform="matrix(5.3615205,0,0,5.3615205,391.3964,-314.12167)"
        style="opacity:1">
       <g
          id="layer1-6"
@@ -173,24 +176,25 @@
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:156.56796265px;line-height:1.25;font-family:'Padauk Book';-inkscape-font-specification:'Padauk Book, Italic';letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.34851956"
-       x="1090.1401"
-       y="906.10236"
+       x="560.8587"
+       y="974.10236"
        id="text3951"><tspan
          sodipodi:role="line"
          id="tspan3949"
-         x="1090.1401"
-         y="906.10236"
+         x="560.8587"
+         y="974.10236"
          style="font-weight:bold;fill:#ffffff;stroke-width:2.34851956">Break Bank</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66666412px;line-height:1.25;font-family:'Padauk Book';-inkscape-font-specification:'Padauk Book, Italic';letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none"
-       x="1.0168649"
-       y="1062.2549"
-       id="text3961"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.17163849px;line-height:1.25;font-family:'Padauk Book';-inkscape-font-specification:'Padauk Book, Italic';letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.78257459"
+       x="468.81589"
+       y="-17.195164"
+       id="text3961"
+       transform="rotate(89.994789)"><tspan
          sodipodi:role="line"
          id="tspan3959"
-         x="1.0168649"
-         y="1062.2549"
-         style="fill:#cccccc">Created by Felix Developer</tspan></text>
+         x="468.81589"
+         y="-17.195164"
+         style="fill:#cccccc;stroke-width:0.78257459">Created by Felix Developer</tspan></text>
   </g>
 </svg>
