@@ -47,9 +47,10 @@ input {
   background-color: transparent;
   color: #fff;
   font-size: 1em;
-}
-
-input::placeholder {
+}:focus {
+  box-shadow: 0 0 0 0;
+  outline: 0;
+}::placeholder {
   background-color: transparent;
 }
 
